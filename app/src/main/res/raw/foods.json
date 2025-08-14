@@ -1,0 +1,8 @@
+[
+  {"id":"roti","name":"Roti (1 pc)","servingSize":"1 pc","calories":80,"protein":3,"carbs":15,"fats":1.5},
+  {"id":"rice100","name":"Rice (100g)","servingSize":"100g cooked","calories":130,"protein":2.5,"carbs":28,"fats":0.3},
+  {"id":"dal100","name":"Dal (100g)","servingSize":"100g cooked","calories":116,"protein":7,"carbs":18,"fats":1.2},
+  {"id":"chicken100","name":"Chicken Breast (100g)","servingSize":"100g","calories":165,"protein":31,"carbs":0,"fats":3.6},
+  {"id":"egg","name":"Egg (1 pc)","servingSize":"1 pc","calories":70,"protein":6,"carbs":0.6,"fats":5}
+]
+

@@ -1,0 +1,8 @@
+[
+  {"name":"Rice (1kg)","unit":"kg","price":55,"calories":3600,"protein":70,"carbs":790,"fats":8},
+  {"name":"Wheat Flour (1kg)","unit":"kg","price":45,"calories":3400,"protein":110,"carbs":720,"fats":15},
+  {"name":"Eggs (12)","unit":"dozen","price":70,"calories":840,"protein":72,"carbs":12,"fats":56,"sponsoredBy":"Local Farm"},
+  {"name":"Chicken Breast (1kg)","unit":"kg","price":260,"calories":1650,"protein":310,"carbs":0,"fats":36},
+  {"name":"Peanut Butter (500g)","unit":"500g","price":180,"calories":3000,"protein":125,"carbs":75,"fats":240}
+]
+

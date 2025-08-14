@@ -1,0 +1,7 @@
+[
+  {"id":"pushup","name":"Push-Up","muscleGroup":"Chest","equipment":"Bodyweight","description":"Hands under shoulders, body straight, lower chest to floor and push back."},
+  {"id":"squat","name":"Bodyweight Squat","muscleGroup":"Legs","equipment":"Bodyweight","description":"Feet shoulder-width, push hips back, bend knees and stand up."},
+  {"id":"dbrow","name":"Dumbbell Row","muscleGroup":"Back","equipment":"Dumbbell","description":"Back flat, pull dumbbell towards hip, squeeze back."},
+  {"id":"ohp","name":"Overhead Press","muscleGroup":"Shoulders","equipment":"Dumbbell","description":"Press weights overhead keeping core tight."}
+]
+

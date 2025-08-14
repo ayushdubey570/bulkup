@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BulkUp</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_budget">Budget Bulk</string>
+    <string name="nav_workouts">Workouts</string>
+    <string name="nav_food">Food</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_settings">Settings</string>
+</resources>

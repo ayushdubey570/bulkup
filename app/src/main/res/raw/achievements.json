@@ -1,0 +1,6 @@
+[
+  {"id":"first_workout","name":"First Workout","description":"Complete your first workout.","type":"first_workout","threshold":10},
+  {"id":"streak_7","name":"7-Day Streak","description":"Log activity 7 days in a row.","type":"workout_streak_days","threshold":7},
+  {"id":"cal_1000","name":"1000 Calories Logged","description":"Log 1000 calories total.","type":"calories_logged_total","threshold":1000}
+]
+
