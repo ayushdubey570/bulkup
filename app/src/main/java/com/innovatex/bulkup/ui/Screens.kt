@@ -183,7 +183,7 @@ fun ProgressScreenFull(storage: LocalStorage) {
 		Spacer(modifier = Modifier.height(8.dp))
 		Button(onClick = {
 			weight.toDoubleOrNull()?.let { w ->
-				storage.appendWeightEntry(WeightEntry(java.time.LocalDate.now().toString(), w))
+				storage.appendWeightEntry(WeightEntry(date = java.time.LocalDate.now().toString(), weightKg = w))
 			}
 		}) { Text("Add Weight") }
 		Spacer(modifier = Modifier.height(8.dp))
